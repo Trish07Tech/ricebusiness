@@ -1,3 +1,5 @@
+form li h3 {
+ border:0 !important; }
 
 form li.rightHalf {
  padding-right:16px; }
