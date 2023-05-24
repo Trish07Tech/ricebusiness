@@ -1,5 +1,5 @@
 html {
-    background-image: none;background-color:#eee;
+    background-image: none;background-color:#eee !important;
    accent-color: #005596;
     margin: 0;
 }
