@@ -1,9 +1,9 @@
 html{accent-color:#005596}
-.disabled input {-webkit-appearance: none;
-	background-color: #eee;
-	border: 1px solid #ccc;
-	display: inline-block;
-	position: relative;}
+.disabled input {-webkit-appearance: none !important;
+	background-color: #eee !important;
+	border: 1px solid #ccc !important;
+	display: inline-block !important;
+	position: relative !important;}
 
 form li.rightHalf {
  padding-right:16px; }
