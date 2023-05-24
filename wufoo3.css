@@ -1,3 +1,9 @@
+.disabled input {-webkit-appearance: none;
+	background-color: #eee;
+	border: 1px solid #ccc;
+	display: inline-block;
+	position: relative;}
+
 form li.rightHalf {
  padding-right:16px; }
 
