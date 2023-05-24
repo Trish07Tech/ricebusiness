@@ -23,9 +23,7 @@ a, a:visited{color:#005596}
 }#logo{background-image:none;background-color:transparent;}
 
 #logo a {background-image:url('https://business.rice.edu/sites/default/files/RiceBusiness-transparent-logo-sm.png') !important;min-height:0;height:100px !important;background-size: 300px 70px; margin:10px !important;}
-form li.buttons {
-	display: none;
-}
+
 form.wufoo {
     margin: 3em 1em !important;
     padding: 0;
