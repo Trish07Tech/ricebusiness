@@ -30,7 +30,7 @@ li.twoColumns div span, li.threeColumns div span, li.notStacked div span{width:1
 
 #logo a {background-image:url('https://business.rice.edu/sites/default/files/RiceBusiness-transparent-logo-sm.png') !important;min-height:0;height:100px !important;background-size: 300px 70px; margin:10px !important;}
 
-label.desc,legend.desc{text-align:center !important;font-size:130% !important;}
+label.desc,legend.desc{font-size:130% !important;}
 
 form.wufoo {
     margin: 3em 1em !important;
