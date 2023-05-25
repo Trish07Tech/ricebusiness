@@ -32,17 +32,17 @@ li.twoColumns div span, li.threeColumns div span, li.notStacked div span{width:1
 
 label.desc,legend.desc{font-size:130% !important;}
 
+
 form.wufoo {
     margin: 3em 1em !important;
-    padding: 0;
+    padding: 0 30px;
 }
 @media (min-width: 37.5em) {
   form.wufoo {
     margin: auto !important;
-    padding: 0; max-width:700px; 
+max-width:700px; 
    
-  }
-}
+  }  }
 .wufoo .info {
     border-bottom: 1px dotted #c3cdd5;
     padding: 0 0 24px 0;
