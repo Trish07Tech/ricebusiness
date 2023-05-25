@@ -22,18 +22,18 @@ a, a:visited{color:#005596}
   }
 }
 @media (max-width: 37.5em) {
-li.twoColumns div span{width:100%;text-align:left;}
-li.twoColumns input{margin-left:50px;}
-li.threeColumns div span{width:30%;margin:0 5px 0 0}
-li.threeColumns input{margin-left:50px;}
+li.twoColumns div span, li.threeColumns div span, li.notStacked div span{width:100% !important;}
+{width:100%;margin:0 5px 0 0}
 }
 
 }#logo{background-image:none;background-color:transparent;}
 
 #logo a {background-image:url('https://business.rice.edu/sites/default/files/RiceBusiness-transparent-logo-sm.png') !important;min-height:0;height:100px !important;background-size: 300px 70px; margin:10px !important;}
 
+label.desc,legend.desc{text-align:center !important;font-size:130% !important;}
+
 form.wufoo {
-    margin: 3em 1em !important;text-align:center !important;
+    margin: 3em 1em !important;
     padding: 0;
 }
 @media (min-width: 37.5em) {
@@ -139,7 +139,7 @@ form ul {
 @media (min-width: 37.5em) {
   .wufoo label.desc,
   .wufoo legend.desc {
-      font-size: 17px !important; font-weight:700
+      font-size: 18px !important; font-weight:700
   }
 }
 form span.req {
