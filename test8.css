@@ -225,12 +225,11 @@ li.notStacked div span {
     margin: 0 6px 16px 4px;
 }
 .wufoo .section h3 {
-    font-size: 24px !important;
-    color: #0033A0;
+    font-size: 22px !important;
     font-weight: bold;
-    text-transform: uppercase;
-    padding: 12px 6px;
-    margin-bottom: 12px;
+    font-family: inherit;
+    padding: 0px !important;
+    margin-bottom: 10px !important;
     border: 0;
 }
 .safari select.select,
