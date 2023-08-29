@@ -294,7 +294,7 @@ a.powertiny b, a.powertiny em{
 }
 .wufoo #lola{
 	font-family:'proxima-nova';
-	color:#505151;
+	color:#505151;background-color:#f8f8f8 !important;
 }
 .wufoo #lola tfoot th{
 	color:#737474;
