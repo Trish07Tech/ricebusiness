@@ -253,7 +253,7 @@ a.powertiny b, a.powertiny em{
 	background-color:#e6e6e6;
 }
 .likert tbody tr.alt td, .likert tbody tr.alt th{
-	background-color:#f5f5f5;
+	background-color:#ebebeb;
 }
 .likert table, .likert th, .likert td{
 	border-color:#dedede;
@@ -314,7 +314,7 @@ a.powertiny b, a.powertiny em{
 	color:#505151;
 }
 .wfo_number{
-	background-color:#f5f5f5;
+	background-color:#ebebeb;
 	border-color:#dedede;
 }
 .wfo_number strong, .wfo_number em{
@@ -340,7 +340,7 @@ a.powertiny b, a.powertiny em{
 	border-bottom:1px solid #dedede;
 }
 .fc tbody tr.alt td, .fc tbody tr.alt th, .fc tbody td.alt{
-	background-color:#f5f5f5;
+	background-color:#ebebeb;
 }
 .fc caption, .fcNav, .fcNav a{
 	color:#505151;
@@ -364,7 +364,7 @@ a.powertiny b, a.powertiny em{
 	border-color:#dedede;
 }
 .invoice thead th, .wufoo .checkNotice{
-	background:#f5f5f5;
+	background:#ebebeb;
 }
 .invoice th, .invoice td{
 	color:#000000;
