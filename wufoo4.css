@@ -1,3 +1,7 @@
+.altInstruct .instruct, li.leftHalf .instruct, li.rightHalf .instruct, li.leftThird .instruct, li.middleThird .instruct, li.rightThird .instruct, li.leftFourth .instruct, li.middleFourth .instruct, li.rightFourth .instruct, li.leftFifth .instruct, li.middleFifth .instruct, li.rightFifth .instruct, .iphone .instruct {padding:0 0 0 38px !important; margin-top:-6px}
+
+
+
 html{accent-color:#005596}
 .disabled input {-webkit-appearance: none !important;
 	background-color: #eee !important;
@@ -13,8 +17,8 @@ form .instruct {
 
 
 .wufoo .instruct small, .redesigned-theme-2018 .wufoo label.desc .user-instructions small {
-  font-size: 100% !important;
-  color: #777 !important;
+  font-size: 110% !important;
+  color: #505151 !important;
 }
 form li div{margin:0;padding:0;color:#444; width:97%;}h3{padding:30px 0 10px !important;}.btTxt {
   background-color: #235591; /* Green */
