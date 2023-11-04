@@ -17,8 +17,12 @@ form li.rightHalf {
 form .instruct {
   visibility: visible !important;
 }
-
-
+.pgStyle2 var b {font-weight:400;color:#505151; font-size:85%}
+form li.paging-context {border:0 !important}
+.pgStyle1 .selected var, .pgStyle2 var, .pgStyle2 var em {background:#dddddd!important;}
+.pgStyle1 var, .pgStyle2 td {border: 1px solid #dddddd!important}
+#errorLi, .error-container {border-radius:4px }
+#errorMsgLbl {padding-top:5px !important; font-size:120%;}
 .wufoo .instruct small, .redesigned-theme-2018 .wufoo label.desc .user-instructions small {
   font-size: 110% !important;
   color: #505151 !important;
