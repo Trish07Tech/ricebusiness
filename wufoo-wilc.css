@@ -1,6 +1,9 @@
 .altInstruct .instruct, li.leftHalf .instruct, li.rightHalf .instruct, li.leftThird .instruct, li.middleThird .instruct, li.rightThird .instruct, li.leftFourth .instruct, li.middleFourth .instruct, li.rightFourth .instruct, li.leftFifth .instruct, li.middleFifth .instruct, li.rightFifth .instruct, .iphone .instruct {padding:0 0 0 38px !important; margin-top:-6px}
 form li.section div {padding-left:0 !important; text-align:center; }
-
+input.checkbox, input.radio {
+    width: 11px;
+    height: 18px;
+}
 
 html{accent-color:#005596}
 .disabled input {-webkit-appearance: none !important;
