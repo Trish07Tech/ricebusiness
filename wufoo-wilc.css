@@ -4,6 +4,9 @@ input.checkbox, input.radio {
     width: 11px;
     height: 18px;
 }
+
+.wufoo input.file {background-transparent !important;}li.total{position:absolute; top:0px; height:auto;}#lola{margin-top:0px !important;float:right;position:static}
+
 #container{width:auto; max-width:1000px;}
 html{accent-color:#005596}
 .disabled input {-webkit-appearance: none !important;
