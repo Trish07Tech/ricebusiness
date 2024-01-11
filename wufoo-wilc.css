@@ -1,5 +1,7 @@
 li .choice__qty, li .choice__qty .notranslate {color:#005596 !important; font-weight:400}
-
+.recaptcha-text {
+    display: none !important;
+}
 .altInstruct .instruct, li.leftHalf .instruct, li.rightHalf .instruct, li.leftThird .instruct, li.middleThird .instruct, li.rightThird .instruct, li.leftFourth .instruct, li.middleFourth .instruct, li.rightFourth .instruct, li.leftFifth .instruct, li.middleFifth .instruct, li.rightFifth .instruct, .iphone .instruct {padding:0 0 0 38px !important; margin-top:-6px}
 form li.section div {padding-left:0 !important; text-align:center; }
 input.checkbox, input.radio {
