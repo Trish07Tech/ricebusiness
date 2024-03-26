@@ -237,7 +237,7 @@ form li.paging-context {border:0 !important}
   font-size: 110% !important;
   color: #505151 !important;
 }
-form li div{margin:0;padding:0;color:#444; width:97%;}h3{padding:15px 0px 10px 0px !important: text-align:center;}.btTxt {
+form li div{margin:0;padding:0;color:#444; width:97%;}h3{padding:15px 0px 10px 0px !important: text-align:center !important;}.btTxt {
   background-color: #235591; /* Green */
   border: 1px solid #235591;
   color: white;
