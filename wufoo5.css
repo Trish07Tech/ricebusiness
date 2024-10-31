@@ -200,7 +200,10 @@ font-display:auto;font-style:italic;font-weight:500;font-stretch:normal;
 li .choice__qty, li .choice__qty .notranslate {color:#005596 !important; font-weight:400}
 .recaptcha-text {
     display: none !important;
-}form li.rightHalf {
+}
+form.wufoo {
+    margin-top: 0 !important}
+form li.rightHalf {
 	padding-right:16px;
 }
 form li div{
