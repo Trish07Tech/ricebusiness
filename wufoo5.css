@@ -77,13 +77,13 @@ font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
 @font-face {
 font-family:"proxima-nova";
 src:url("https://use.typekit.net/af/1be3c2/00000000000000007735e606/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("woff2"),url("https://use.typekit.net/af/1be3c2/00000000000000007735e606/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("woff"),url("https://use.typekit.net/af/1be3c2/00000000000000007735e606/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("opentype");
-font-display:auto;font-style:normal;font-weight:300;font-stretch:normal;
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
 }
 
 @font-face {
 font-family:"proxima-nova";
 src:url("https://use.typekit.net/af/40d372/00000000000000007735e607/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3") format("woff2"),url("https://use.typekit.net/af/40d372/00000000000000007735e607/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3") format("woff"),url("https://use.typekit.net/af/40d372/00000000000000007735e607/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3") format("opentype");
-font-display:auto;font-style:italic;font-weight:300;font-stretch:normal;
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
 }
 
 @font-face {
@@ -125,13 +125,13 @@ font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
 @font-face {
 font-family:"proxima-nova-condensed";
 src:url("https://use.typekit.net/af/2000e8/00000000000000007735e612/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("woff2"),url("https://use.typekit.net/af/2000e8/00000000000000007735e612/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("woff"),url("https://use.typekit.net/af/2000e8/00000000000000007735e612/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("opentype");
-font-display:auto;font-style:normal;font-weight:300;font-stretch:normal;
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
 }
 
 @font-face {
 font-family:"proxima-nova-condensed";
 src:url("https://use.typekit.net/af/16abe1/00000000000000007735e621/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3") format("woff2"),url("https://use.typekit.net/af/16abe1/00000000000000007735e621/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3") format("woff"),url("https://use.typekit.net/af/16abe1/00000000000000007735e621/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3") format("opentype");
-font-display:auto;font-style:italic;font-weight:300;font-stretch:normal;
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
 }
 
 @font-face {
@@ -209,8 +209,13 @@ form li div{
 	color:#444;
 	width:97%;
 }
+form li.section {
+ 
+    padding-top: 20px !important;
+   
+}
 h3{
-	padding:30px 0 10px !important;
+	padding-top:20px !important;
 }
 .btTxt {
 	background-color: #235591;
@@ -229,9 +234,11 @@ li.buttons{
 	padding-top:30px !important;
 }
 #logo a {
-	background-image:url('https://gallery.mailchimp.com/fef5c320a386e6b8238b3eda6/images/2bf62619-783d-4b20-aae2-ea4fcd50af08.jpg') !important;
+	background-image: url('https://mcusercontent.com/fef5c320a386e6b8238b3eda6/images/0e18533c-d2b3-781e-d1db-a5b2c93268fd.png') !important;
 	min-height:0;
 	height:100px !important;
+    background-position-x: 5%;
+    background-size: 50%;
 }
 .redesigned-theme-2018 #logo a, .redesigned-theme-2018 .logo a {
 	background-position: 0% 0px !important;
@@ -259,7 +266,7 @@ li.buttons{
 	background:# url(/images/fieldbg.gif) repeat-x top;
 }
 .safari .wufoo select.select{
-	font-size:130% !important;
+	font-size:125% !important;
 }
 .safari .wufoo input.file{
 	background:none;
@@ -317,15 +324,17 @@ li.buttons{
 	font-style:normal;
 	font-weight:800;
 	color:#505151 !important;
+        font-size: 240% !important;
+    line-height: 120% !important;
 }
 .redesigned-theme-2018 .wufoo .info h2 * {
 	font-family: 'proxima-nova-condensed';
 }
 .wufoo .info div {
-	font-size:130% !important;
+	font-size:125% !important;
 	font-family:'proxima-nova';
 	font-style:normal;
-	font-weight:300;
+	font-weight:400;
 	color:#505151 !important;
 }
 .redesigned-theme-2018 .wufoo .info div * {
@@ -342,17 +351,17 @@ li.buttons{
 	font-family: 'proxima-nova-condensed';
 }
 .wufoo .section div {
-	font-size:130% !important;
+	font-size:125% !important;
 	font-family:'proxima-nova';
 	font-style:normal;
-	font-weight:300;
+	font-weight:400;
 	color:#505151 !important;
 }
 .redesigned-theme-2018 .wufoo .section div * {
 	font-family: 'proxima-nova';
 }
 .wufoo label.desc, .wufoo legend.desc, .likert caption {
-	font-size:130% !important;
+	font-size:125% !important;
 	font-family:'proxima-nova';
 	font-style:normal;
 	font-weight:500;
@@ -362,7 +371,7 @@ li.buttons{
 	font-family: 'proxima-nova';
 }
 .wufoo label.choice{
-	font-size:130% !important;
+	font-size:125% !important;
 	font-family:'proxima-nova';
 	font-style:normal;
 	font-weight:400;
@@ -375,7 +384,7 @@ li.buttons{
 	font-style:normal;
 	font-weight:400;
 	color:#505151 !important;
-	font-size:130% !important;
+	font-size:125% !important;
 	padding:5px !important;
 }
 {
@@ -392,7 +401,7 @@ li.buttons{
 	color:#505151;
 }
 .safari .wufoo input.file{
-	font-size:130%;
+	font-size:125%;
 	font-family:'proxima-nova';
 	color:#505151;
 }
@@ -400,7 +409,7 @@ li.buttons{
 	font-size:160%;
 	font-family:'proxima-nova';
 	font-style:normal;
-	font-weight:300;
+	font-weight:400;
 	color:#444444;
 }
 .redesigned-theme-2018 .wufoo label.desc .user-instructions,.redesigned-theme-2018 .wufoo legend.desc .user-instructions {
@@ -478,7 +487,7 @@ a.powertiny b, a.powertiny em{
 	color:#000000;
 }
 .likert caption, .likert tbody th label{
-	font-size:130%;
+	font-size:125%;
 }
 .likert tbody tr:hover td, .likert tbody tr:hover th, .likert tbody tr:hover label{
 	background-color:transparent;
@@ -502,7 +511,7 @@ a.powertiny b, a.powertiny em{
 	color:#737474;
 }
 .wufoo .wfo_graph h3{
-	font-size:130%;
+	font-size:125%;
 	font-family:'proxima-nova';
 	color:#505151;
 }
