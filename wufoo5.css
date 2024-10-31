@@ -221,7 +221,7 @@ h3{
 	padding-top:20px !important;
 }
 .btTxt {
-	background-color: #235591;
+	color: #235591;
 	/* Green */
 	border: 1px solid #235591;
 	color: white;
@@ -242,6 +242,7 @@ li.buttons{
 	height:100px !important;
     background-position-x: 5%;
     background-size: 50%;
+	    max-width: 600px;
 }
 .redesigned-theme-2018 #logo a, .redesigned-theme-2018 .logo a {
 	background-position: 0% 0px !important;
