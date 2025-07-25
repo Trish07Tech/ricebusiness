@@ -1,4 +1,4 @@
-.noI .leftLabel .buttons, .noI .rightLabel .buttons {
+.wufoo .section h3{border:0}.noI .leftLabel .buttons, .noI .rightLabel .buttons {
    padding-left: 0;
 }
 
@@ -309,13 +309,13 @@ li.buttons{
 .wufoo .info,.wufoo .paging-context{
 	border-bottom:1px solid #dedede;
 }
-.wufoo .section h3,.wufoo .captcha,#payment .paging-context{
+.wufoo .captcha,#payment .paging-context{
 	border-top:1px solid #dedede;
 }
 .redesigned-theme-2018 .wufoo .info,.redesigned-theme-2018 .wufoo .paging-context {
 	border-bottom:0 solid transparent;
 }
-.redesigned-theme-2018 .wufoo .section h3,.redesigned-theme-2018 .wufoo .captcha,.redesigned-theme-2018 #payment .paging-context {
+.redesigned-theme-2018 .wufoo .captcha,.redesigned-theme-2018 #payment .paging-context {
 	border-top:1px solid #dedede;
 }
 .wufoo .instruct{
