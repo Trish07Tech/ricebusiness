@@ -1,3 +1,6 @@
+form li.paging-context {
+      margin: 0 0 17px 0;
+}
 .paging-context table {
     width: 90%;
     float: right;
