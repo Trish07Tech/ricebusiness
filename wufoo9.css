@@ -1,3 +1,7 @@
+.noI .leftLabel .buttons, .noI .rightLabel .buttons {
+   padding-left: 0;
+}
+
 .wufoo input.btTxt:hover
 {cursor:pointer}
 
