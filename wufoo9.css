@@ -1,3 +1,5 @@
+@media screen and (max-width: 1024px) {li.twoColumns div span {width:100% !important}}
+form li div:not(.credit-card,.credit-card *,.stripeCC,.stripeCC *) {padding-top:5px}
 .wufoo .section h3{border:0}.noI .leftLabel .buttons, .noI .rightLabel .buttons {
    padding-left: 25%;
 }
