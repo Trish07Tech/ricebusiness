@@ -1,3 +1,7 @@
+.wufoo input.btTxt:hover
+{cursor:pointer}
+
+
 form li.paging-context {
       margin: 0 0 17px 0;
 }
