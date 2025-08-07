@@ -230,12 +230,10 @@ form li div{
 }
 form li.section {
  
-    padding-top: 20px !important;
+    padding-top: 0px !important;
    
 }
-h3{
-	padding-top:20px !important;
-}
+
 .btTxt {
 	color: #235591;
 	/* Green */
