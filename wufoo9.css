@@ -1,4 +1,4 @@
-
+.leftLabel li, .rightLabel li {width:100% !important}
 @media screen and (max-width: 1024px) {li.twoColumns div span {width:100% !important}}
 
 .wufoo .section h3{border:0}.noI .leftLabel .buttons, .noI .rightLabel .buttons {
