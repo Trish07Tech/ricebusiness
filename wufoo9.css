@@ -392,11 +392,13 @@ li.buttons{
 	font-family: 'proxima-nova';
 }
 .wufoo label.choice{
-	font-size:125% !important;
-	font-family:'proxima-nova';
-	font-style:normal;
-	font-weight:400;
-	color:#505151 !important;
+	    font-size: 125% !important;
+    font-family: 'proxima-nova';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1;
+    margin-bottom: 7px;
+    color: #505151 !important;
 }
 .redesigned-theme-2018 .wufoo label.desc,.redesigned-theme-2018 .wufoo legend.desc,.redesigned-theme-2018 .wufoo li span,.redesigned-theme-2018 .wufoo li span label,.redesigned-theme-2018 .wufoo li div span.choice__text,.redesigned-theme-2018 .wufoo ul li span.symbol,.redesigned-theme-2018 li div span.choice__qty,.redesigned-theme-2018 li div span.choice__qty span,.redesigned-theme-2018 .wufoo li .wufoo-dropdown-menu,.redesigned-theme-2018 .wufoo li.focused span {
 	color: #505151 !important;
