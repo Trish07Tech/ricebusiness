@@ -1,5 +1,5 @@
 input.small, select.small {
-    width: 15%;
+    width: 60px;
 }
 @media screen and (max-width: 1024px) {li.twoColumns div span {width:100% !important}}
 
