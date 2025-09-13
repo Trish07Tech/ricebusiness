@@ -237,6 +237,9 @@ li.buttons{
 	text-align: center;
 	padding-top:30px !important;
 }
+.noI .leftLabel .buttons, .noI .rightLabel .buttons {
+    padding-left: 25%;
+}
 #logo a {
 	background-image: url('https://mcusercontent.com/fef5c320a386e6b8238b3eda6/images/0e18533c-d2b3-781e-d1db-a5b2c93268fd.png') !important;
 	min-height:0;
