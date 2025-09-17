@@ -1,3 +1,7 @@
+.leftLabel li div, .rightLabel li div {
+
+    margin-top: 5px !important;
+}
 li.total{position:absolute; top:10px;height:auto}
 #lola {margin-top:0px !important; float:right; position:static}.leftLabel li, .rightLabel li {width:100% !important}
 @media screen and (max-width: 1024px) {li.twoColumns div span {width:100% !important}}
