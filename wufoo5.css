@@ -1,8 +1,10 @@
 form li {padding-left:0}
 form li.leftHalf, form li.rightHalf {
-    width: 49% !important;
+    width: 48% !important;
 }
-
+form li div {
+    width: 100%;
+}
 @import url("https://p.typekit.net/p.css?s=1&k=gcr5sfd&ht=tk&f=137.138.139.140.169.170.171.172.173.174.175.176.5474.5475.25136.25137.141.142.143.144.145.146.147.148.149.150.151.152.153.154.25138.25139.15498.15501.15505.15510&a=3593027&app=typekit&e=css");
 
 @font-face {
