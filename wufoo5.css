@@ -612,5 +612,5 @@ a.powertiny b, a.powertiny em{
 
 @media screen and (max-width: 768px) {
 form li, form li.leftHalf, form li.rightHalf {
-    width: 100% !important;padding-left:0 !important;padding-right:0 !important;
+    width: 100%;padding-left:0;padding-right:0;
 }}
