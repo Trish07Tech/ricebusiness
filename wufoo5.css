@@ -610,7 +610,7 @@ a.powertiny b, a.powertiny em{
 	}
 }
 
-@media only screen and (max-width: 1024px) {
+@media screen and (max-width: 768px) {
 form li, form li.leftHalf, form li.rightHalf {
-    width: 100% !important;padding:0 !important;
+    width: 100% !important;padding-left:0 !important;padding-right:0 !important;
 }}
