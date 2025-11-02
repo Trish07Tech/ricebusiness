@@ -1,8 +1,8 @@
 .cloak {
     display: none;
 }
-li.total{position:absolute; top:10px;height:auto}
-#lola {margin-top:10px !important; float:right; position:static}.leftLabel li, .rightLabel li {width:100% !important}
+li.total{position:absolute; height:auto}
+#lola {float:right; position:static}.leftLabel li, .rightLabel li {width:100% !important}
 @media screen and (max-width: 1024px) {li.twoColumns div span {width:100% !important}}
 #lola tfoot tr.negAmount,form span.req {
     color: #005596;
