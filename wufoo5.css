@@ -430,11 +430,11 @@ li.buttons{
 	color:#505151;
 }
 .wufoo .instruct small, .redesigned-theme-2018 .wufoo label.desc .user-instructions small{
-	font-size:160%;
+	font-size:100%;
 	font-family:'proxima-nova';
 	font-style:normal;
 	font-weight:400;
-	color:#444444;
+	color:#005596;
 }
 .redesigned-theme-2018 .wufoo label.desc .user-instructions,.redesigned-theme-2018 .wufoo legend.desc .user-instructions {
 	font-size: 15px !important;
@@ -450,7 +450,7 @@ li.buttons{
 	color: #6b787f !important;
 }
 .altInstruct small, li.leftHalf small, li.rightHalf small,li.leftThird small, li.middleThird small, li.rightThird small,.iphone small{
-	color:#444444 !important;
+	color:#005596 !important;
 }
 .wufoo input.btTxt{
 }
