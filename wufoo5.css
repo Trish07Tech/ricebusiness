@@ -465,7 +465,7 @@ li.buttons{
 .altInstruct small, li.leftHalf small, li.rightHalf small,li.leftThird small, li.middleThird small, li.rightThird small,.iphone small{
 	color:#005596 !important;
 }
-.altInstruct .instruct {padding-top:0px}
+.altInstruct .instruct {padding-top:0px; padding-bottom:.75rem}
 .wufoo input.btTxt{
 }
 .confirm h2{
