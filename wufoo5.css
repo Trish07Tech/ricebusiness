@@ -4,6 +4,10 @@
 }.rightLabel #lola tbody span {  font-size: 100%;}.cloak {
     display: none;
 }
+.cloak-show legend, .cloak-show input, li .choice__qty, li .choice__qty .notranslate  {display:none !important}
+
+
+
 li.total{position:absolute; height:auto}
 #lola {float:right; position:static;margin-top: 0px !important;}.leftLabel li, .rightLabel li {width:100% !important}
 @media screen and (max-width: 1024px) {li.twoColumns div span {width:100% !important}}
@@ -25,7 +29,7 @@ form li.leftHalf, form li.rightHalf {
 form li div {
     width: 100%;
 }
-.rightText section{margin-left:32%;}
+.rightText section, .cloak-show{margin-left:32%;}
 .rightText section div{margin-bottom:0px !important}
 .rightText section p{text-align:left !important;padding:0 !important}
 .rightText section h3{display:none;}
