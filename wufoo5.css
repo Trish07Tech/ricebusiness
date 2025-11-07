@@ -230,7 +230,7 @@ font-display:auto;font-style:italic;font-weight:500;font-stretch:normal;
 .tk-proxima-nova { font-family: "proxima-nova",sans-serif; }
 .tk-proxima-nova-condensed { font-family: "proxima-nova-condensed",sans-serif; }
 
-li .choice__qty, li .choice__qty .notranslate {color:#005596 !important; font-weight:400}
+li .choice__qty, li .choice__qty .notranslate {color:#005596 !important; font-weight:400;margin-left: 3px;}
 .recaptcha-text {
     display: none !important;
 }
