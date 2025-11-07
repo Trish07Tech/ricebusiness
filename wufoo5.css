@@ -4,7 +4,7 @@
 }.rightLabel #lola tbody span {  font-size: 100%;}.cloak {
     display: none;
 }
-.cloak-show legend, .cloak-show input {display:none !important}
+.cloak-show legend{display:none !important}
 
 
 
