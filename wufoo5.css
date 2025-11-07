@@ -1,4 +1,7 @@
-.cloak {
+.leftLabel #lola tbody span, .rightLabel #lola {
+    width: 65%;
+    font-size: 125%;
+}.rightLabel #lola tbody span {  font-size: 100%;}.cloak {
     display: none;
 }
 li.total{position:absolute; height:auto}
