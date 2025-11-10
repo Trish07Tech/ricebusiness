@@ -16,7 +16,7 @@
     width: 90%;
 }
 .rightText section, .cloak-show {
-    margin-left: 0%;
+    margin-left: 0% !important;
 }
 li.total {
     position: relative;
