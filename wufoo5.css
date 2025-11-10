@@ -5,6 +5,9 @@
 .leftLabel .desc, .rightLabel .desc {
     float: none;
     width: 100%;
+}
+.leftLabel li div, .rightLabel li div {
+    width: 100%;
 }}
 
 
