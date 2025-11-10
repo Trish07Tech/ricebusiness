@@ -4,7 +4,7 @@
 }
 .leftLabel .desc, .rightLabel .desc {
     float: none;
-    width: 100%;
+    width: 90%;
 }
 .leftLabel li div, .rightLabel li div {
     width: 90%;
