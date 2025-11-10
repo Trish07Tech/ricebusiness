@@ -14,6 +14,9 @@
 .leftLabel .altInstruct .instruct, .rightLabel .altInstruct .instruct {
     margin-left: 3% !important;
     width: 90%;
+}
+.rightText section, .cloak-show {
+    margin-left: 0%;
 }}
 
 
