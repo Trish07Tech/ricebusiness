@@ -17,6 +17,10 @@
 }
 .rightText section, .cloak-show {
     margin-left: 0%;
+}
+li.total {
+    position: relative;
+
 }}
 
 
