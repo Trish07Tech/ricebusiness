@@ -10,6 +10,10 @@
     width: 100%;
 }input.medium, select.medium {
     width: 90%;
+}
+.leftLabel .altInstruct .instruct, .rightLabel .altInstruct .instruct {
+    margin-left: 3% !important;
+    width: 90%;
 }}
 
 
