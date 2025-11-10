@@ -1,3 +1,14 @@
+@media screen and (max-width: 768px) {
+.rightLabel .desc {
+   text-align: left;
+}
+.leftLabel .desc, .rightLabel .desc {
+    float: none;
+    width: 100%;
+}}
+
+
+
 .leftLabel #lola tbody span, .rightLabel #lola {
     width: 65%;
     font-size: 125%;
