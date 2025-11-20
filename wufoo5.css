@@ -1,3 +1,12 @@
+.info {
+    padding: 0 0 1.1em 0;
+}
+
+form li.likert {
+   
+    padding: 6px 0 5px 0;
+}
+
 @media screen and (max-width: 768px) {
 .rightLabel .desc {
    text-align: left;
@@ -46,6 +55,10 @@ fieldset div {margin-top:5px !important}
 
 input.checkbox, input.radio {
     height: 10px;
+	accent-color:#005596;
+}
+input.likert {
+
 	accent-color:#005596;
 }
 
@@ -549,7 +562,7 @@ a.powertiny b, a.powertiny em{
 	border-left:1px solid #cccccc;
 }
 .likert caption, .likert thead td, .likert tbody th label{
-	color:#505151;
+	color:#505151 !important;
 	font-family:'proxima-nova';
 }
 .redesigned-theme-2018 .likert thead td,.redesigned-theme-2018 .likert thead th,.redesigned-theme-2018 .likert tbody th label {
@@ -560,17 +573,13 @@ a.powertiny b, a.powertiny em{
 	font-family:'proxima-nova';
 }
 .likert thead td, .likert tbody tr.alt th label, .likert tbody tr.alt td label{
-	color:#000000;
+	color:#505151;
 }
 .likert caption, .likert tbody th label{
 	font-size:125%;
 }
 .likert tbody tr:hover td, .likert tbody tr:hover th, .likert tbody tr:hover label{
-	background-color:transparent;
-	color:#000000;
-}
-.likert tbody tr:hover td{
-	border-left:1px solid #cccccc;
+	color:#505151;
 }
 .redesigned-theme-2018 .likert tbody tr:hover label, .redesigned-theme-2018 .likert tbody tr:hover td, .redesigned-theme-2018 .likert tbody tr:hover th {
 	color: #505151;
