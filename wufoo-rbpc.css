@@ -260,10 +260,12 @@ li.buttons{
 #logo a {
 	background-image: url('https://mcusercontent.com/fef5c320a386e6b8238b3eda6/images/041b81f7-12c9-4978-43cd-5df0a1c3404a.png') !important;
 	min-height:0;
-	height:100px !important;
-    background-position-x: 5%;
-    background-size: 50%;
-	    max-width: 600px;
+	height:200px !important;
+    background-position-x: 50%;
+ background-position-y: 10px;
+    background-size: 300px;
+	    max-width: 650px;
+
 }
 .redesigned-theme-2018 #logo a, .redesigned-theme-2018 .logo a {
 	background-position: 0% 0px !important;
@@ -344,13 +346,13 @@ li.buttons{
 .wufoo li.section.scrollText{
 	border-color:#dedede;
 }
-.wufoo .info h2 {
+.wufoo .info h2 { text-align:center;
 	font-family:'proxima-nova-condensed';
 	font-style:normal;
 	font-weight:800;
 	color:#505151 !important;
         font-size: 240% !important;
-    line-height: 120% !important;
+    line-height: 120% !important;margin-bottom:10px;
 }
 .redesigned-theme-2018 .wufoo .info h2 * {
 	font-family: 'proxima-nova-condensed';
