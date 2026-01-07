@@ -358,7 +358,7 @@ li.buttons{
 	font-family: 'proxima-nova-condensed';
 }
 .wufoo .info div {
-	font-size:125% !important;
+	font-size:115% !important;
 	font-family:'proxima-nova';
 	font-style:normal;
 	font-weight:400;
@@ -368,7 +368,7 @@ li.buttons{
 	font-family: 'proxima-nova';
 }
 .wufoo .section h3 {
-	font-size:180% !important;
+	font-size:170% !important;
 	font-family:'proxima-nova-condensed';
 	font-style:normal;
 	font-weight:800;
@@ -378,7 +378,7 @@ li.buttons{
 	font-family: 'proxima-nova-condensed';
 }
 .wufoo .section div {
-	font-size:125% !important;
+	font-size:115% !important;
 	font-family:'proxima-nova';
 	font-style:normal;
 	font-weight:400;
@@ -388,7 +388,7 @@ li.buttons{
 	font-family: 'proxima-nova';
 }
 .wufoo label.desc, .wufoo legend.desc, .likert caption {
-	font-size:125% !important;
+	font-size:115% !important;
 	font-family:'proxima-nova';
 	font-style:normal;
 	font-weight:500;
@@ -398,11 +398,11 @@ li.buttons{
 	font-family: 'proxima-nova';
 }
 .wufoo label.choice{
-	    font-size: 125% !important;
+	    font-size: 115% !important;
     font-family: 'proxima-nova';
     font-style: normal;
     font-weight: 400;
-    line-height: 1;
+    line-height: 1.2;
     margin-bottom: 7px;
     color: #505151 !important;
 }
@@ -413,7 +413,7 @@ li.buttons{
 	font-style:normal;
 	font-weight:400;
 	color:#505151 !important;
-	font-size:125% !important;
+	font-size:115% !important;
 	padding:5px !important;
 }
 {
@@ -430,7 +430,7 @@ li.buttons{
 	color:#505151;
 }
 .safari .wufoo input.file{
-	font-size:125%;
+	font-size:115%;
 	font-family:'proxima-nova';
 	color:#505151;
 }
@@ -515,7 +515,7 @@ a.powertiny b, a.powertiny em{
 	color:#000000;
 }
 .likert caption, .likert tbody th label{
-	font-size:125%;
+	font-size:115%;
 }
 .likert tbody tr:hover td, .likert tbody tr:hover th, .likert tbody tr:hover label{
 	background-color:transparent;
@@ -539,7 +539,7 @@ a.powertiny b, a.powertiny em{
 	color:#737474;
 }
 .wufoo .wfo_graph h3{
-	font-size:125%;
+	font-size:115%;
 	font-family:'proxima-nova';
 	color:#505151;
 }
