@@ -364,6 +364,7 @@ li.buttons{
 	font-weight:400;
 	color:#505151 !important;
 }
+.wufoo .info div a{color:#005596 !important}
 .redesigned-theme-2018 .wufoo .info div * {
 	font-family: 'proxima-nova';
 }
