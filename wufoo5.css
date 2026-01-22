@@ -683,4 +683,4 @@ a.powertiny b, a.powertiny em{
 form li, form li.leftHalf, form li.rightHalf {
     width: 75%;padding-left:0;float:left
 }textarea.textarea, .noI form li, .altInstruct form li {
-   width:93%}}
+   width:95% !important}}
