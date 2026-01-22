@@ -45,7 +45,7 @@ li.total {
 
 
 li.total{position:absolute; height:auto}
-#lola {float:right; position:static;margin-top: 0px !important;}.leftLabel li, .rightLabel li {width:100% !important}
+#lola {float:right; position:static;margin-top: 10px !important;}.leftLabel li, .rightLabel li {width:100% !important}
 @media screen and (max-width: 1024px) {li.twoColumns div span {width:100% !important}}
 #lola tfoot tr.negAmount,form span.req {
     color: #005596;
