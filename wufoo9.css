@@ -1,3 +1,4 @@
+
 #container{margin:0 auto 10px auto;width:800px}
 .leftLabel li div, .rightLabel li div {
 
@@ -14,6 +15,7 @@ li.total{position:absolute; top:10px;height:auto}
 .wufoo input.btTxt:hover
 {cursor:pointer}
 
+form ul {margin-top:20px}
 
 form li.paging-context {
       margin: 0 0 25px 0;
@@ -314,7 +316,7 @@ li.buttons{
 	border:0 solid transparent;
 }
 .wufoo .info,.wufoo .paging-context{
-	border-bottom:1px solid #dedede;
+	border-bottom:1px solid #dedede; padding-bottom:30px;padding-bottom:30px;
 }
 .wufoo .captcha,#payment .paging-context{
 	border-top:1px solid #dedede;
@@ -352,6 +354,7 @@ li.buttons{
 	color:#505151 !important;
         font-size: 240% !important;
     line-height: 120% !important;
+margin-bottom:15px;
 }
 .redesigned-theme-2018 .wufoo .info h2 * {
 	font-family: 'proxima-nova-condensed';
@@ -622,3 +625,4 @@ a.powertiny b, a.powertiny em{
 	}
 }
 .wufoo .info div a{color:#005596 !important}
+@media screen and (max-width: 1024px) {#container{width:auto}}
