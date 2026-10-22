@@ -240,14 +240,7 @@ li.buttons{
 	text-align: center;
 	padding-top:30px !important;
 }
-#logo a {
-	background-image: url('https://mcusercontent.com/fef5c320a386e6b8238b3eda6/images/0e18533c-d2b3-781e-d1db-a5b2c93268fd.png') !important;
-	min-height:0;
-	height:100px !important;
-    background-position-x: 5%;
-    background-size: 50%;
-	    max-width: 600px;
-}
+
 .redesigned-theme-2018 #logo a, .redesigned-theme-2018 .logo a {
 	background-position: 0% 0px !important;
 	background-size: auto !important;
