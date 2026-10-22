@@ -658,9 +658,11 @@ a.powertiny b, a.powertiny em{
 	box-shadow: 0 0 0 1px #005596!important;
 	color: #005596!important;
 }
+/*
 .redesigned-theme-2018 input.radio:checked+label.choice:before {
-	background: radial-gradient(circle at center, #fff 4px, #005596 5px)!important;
+    background: radial-gradient(circle at center, #fff 4px, #005596 5px) !important;
 }
+*/
 .redesigned-theme-2018 input.btTxt {
 	-moz-appearance: none;
 	-webkit-appearance: none;
