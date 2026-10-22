@@ -430,16 +430,21 @@ form li.first h3, form li.section div {
 	line-height: 1;
 	margin-bottom: 7px;
 	color: #505151 !important;
+padding: 15px 30px 15px 30px!important
 }
 .redesigned-theme-2018 .wufoo label.desc,.redesigned-theme-2018 .wufoo legend.desc,.redesigned-theme-2018 .wufoo li span,.redesigned-theme-2018 .wufoo li span label,.redesigned-theme-2018 .wufoo li div span.choice__text,.redesigned-theme-2018 .wufoo ul li span.symbol,.redesigned-theme-2018 li div span.choice__qty,.redesigned-theme-2018 li div span.choice__qty span,.redesigned-theme-2018 .wufoo li .wufoo-dropdown-menu,.redesigned-theme-2018 .wufoo li.focused span {
 	color: #505151 !important;
 }
-.wufoo input.text,.wufoo textarea.textarea,.wufoo input.file,.wufoo select.select,.wufoo li .wufoo-dropdown span{
+.wufoo input.text,.wufoo textarea.textarea,.wufoo input.file,.wufoo select.select{
 	font-style:normal;
 	font-weight:400;
 	color:#505151 !important;
 	font-size:125% !important;
 	padding:5px !important;
+}
+.wufoo li .wufoo-dropdown span {}
+.redesigned-theme-2018 input.checkbox:checked+label.choice:before {
+    background-color: #005596 !important;
 }
 .wufoo input.text, .wufoo textarea.textarea, .wufoo input.file{
 	font-family:'proxima-nova';
@@ -668,3 +673,4 @@ a.powertiny b, a.powertiny em{
 .redesigned-theme-2018 #logo, .redesigned-theme-2018 #nav2.logo,#header {
 	display:none;
 }
+.wufoo .wufoo-dropdown-menu li.selected,.wufoo .wufoo-dropdown-menu li:hover{background-color:#f4f4f4}
