@@ -686,8 +686,8 @@ a.powertiny b, a.powertiny em{
 {color:#005596 !important; }
 .choice__qty {top:3px;position:relative}
 .red {color:#DF0000 !important;}
-.cloak {
-    display: none;
+.cloak, p.error {
+    display: none!important;
 }
 .redesigned-theme-2018 form span.req {
 
