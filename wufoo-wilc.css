@@ -691,7 +691,8 @@ a.powertiny b, a.powertiny em{
 .hidden,.hidden input.radio:checked+label.choice, p.error {
     display: none!important;
 }
-.redesigned-theme-2018 form span.req {
-
+.redesigned-theme-2018 .wufoo li.focused span,.redesigned-theme-2018 form span.req {
+color: #2685c6 !important;
     top: 3px !important;
 }
+
