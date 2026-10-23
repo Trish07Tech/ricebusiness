@@ -689,3 +689,7 @@ a.powertiny b, a.powertiny em{
 .cloak {
     display: none;
 }
+.redesigned-theme-2018 form span.req {
+
+    top: 3px !important;
+}
