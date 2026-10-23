@@ -676,8 +676,9 @@ a.powertiny b, a.powertiny em{
 	display:none;
 }
 .wufoo .wufoo-dropdown-menu li.selected,.wufoo .wufoo-dropdown-menu li:hover{background-color:#f4f4f4}
-@media only screen and (min-width: 850px) {
-    #container, #container2 .redesigned-theme-2018 {
-        width: 850px;
-    }
+.redesigned-theme-2018 #payment .invoice tbody td, .redesigned-theme-2018 #payment .invoice tbody th {
+    line-height: 1.5;
+}
+#payment li.first h2 {
+    padding-left: 0 !important;
 }
