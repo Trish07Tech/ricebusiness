@@ -688,7 +688,7 @@ a.powertiny b, a.powertiny em{
 {color:#005596 !important; }
 .choice__qty {top:3px;position:relative}
 .red {color:#DF0000 !important;}
-.hidden, p.error {
+.hidden,.hidden input.radio:checked+label.choice, p.error {
     display: none!important;
 }
 .redesigned-theme-2018 form span.req {
