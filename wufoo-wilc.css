@@ -1,7 +1,5 @@
 @import url("https://p.typekit.net/p.css?s=1&k=gcr5sfd&ht=tk&f=137.138.139.140.169.170.171.172.173.174.175.176.5474.5475.25136.25137.141.142.143.144.145.146.147.148.149.150.151.152.153.154.25138.25139.15498.15501.15505.15510&a=3593027&app=typekit&e=css");
-form ul {
-	margin-top:20px
-}
+
 @font-face {
 	font-family:"proxima-nova";
 	src:url("https://use.typekit.net/af/e3ed45/00000000000000007735e602/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n9&v=3") format("woff2"),url("https://use.typekit.net/af/e3ed45/00000000000000007735e602/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n9&v=3") format("woff"),url("https://use.typekit.net/af/e3ed45/00000000000000007735e602/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n9&v=3") format("opentype");
@@ -672,9 +670,13 @@ a.powertiny b, a.powertiny em{
 .redesigned-theme-2018 .wufoo .section div {
 	margin-bottom: 0px !important;
 }
-.redesigned-theme-2018 #logo, .redesigned-theme-2018 #nav2.logo,#header {
-	display:none;
+#header {display:none}
+.redesigned-theme-2018 #logo a, .redesigned-theme-2018 .logo a {
+    background-position: center !important;
+}.redesigned-theme-2018 #logo, .redesigned-theme-2018 #nav2.logo {
+    border-bottom: 0!important;
 }
+#container {margin-top:5px}
 .wufoo .wufoo-dropdown-menu li.selected,.wufoo .wufoo-dropdown-menu li:hover{background-color:#f4f4f4}
 .redesigned-theme-2018 #payment .invoice tbody td, .redesigned-theme-2018 #payment .invoice tbody th {
     line-height: 1.5;
